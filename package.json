@@ -1,0 +1,22 @@
+{
+  "name": "com.kirito-solutions.automatic-ui-anchoring",
+  "version": "1.0.0",
+  "displayName": "Automatic UI Anchoring",
+  "description": "Have you ever made the UI for your game only to realize that you\r\nnow have to manually anchor many of the UI elements so that their\r\naspect ratios are persevered when scaling to different screen sizes?\r\nI know I have and if you have too look no further this is the perfect\r\nplugin for you!\r\nYou can use Automatic UI Anchoring For Unity 3D to set the anchor\r\npositions of UI elements by simply selecting them in the hierarchy\r\nview and then selecting \"Tools->Automatic UI Anchoring->Anchor\r\nSelected UI Objects\" from the top bar",
+  "unity ": "2020.3",
+  "types": "",
+  "keywords": [
+    "kirito",
+    "kirito solutions",
+    "auto ui",
+    "ui anchor"
+  ],
+  "gitDependencies": {
+  },
+  "author": {
+    "name": "Hunter Kirito",
+    "url": "https://hunterkirito.in"
+  },
+  "unity": "2020.3",
+  "type": "tool"
+}
