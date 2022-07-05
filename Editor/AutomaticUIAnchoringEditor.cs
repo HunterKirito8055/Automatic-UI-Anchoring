@@ -1,5 +1,7 @@
 ﻿using UnityEngine;
+#if UNITY_EDITOR
 using UnityEditor;
+
 
 namespace Kirito_Solutions.UIExtensions
 {
@@ -38,3 +40,4 @@ namespace Kirito_Solutions.UIExtensions
         }
     }
 }//namespace
+#endif
